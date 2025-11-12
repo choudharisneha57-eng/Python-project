@@ -1,3 +1,3 @@
-name="Sneha"
-age=20
-print(f"My name is {name} and my age is {age} years old.")
+num = -3
+print("Power:", pow(num, 3))
+print("Absolute:", abs(num))

@@ -1,3 +1,4 @@
-import keyword
-print("python keywords:")
-print(keyword.kwlist)
+a=10
+b=5
+result = (a + b) * (a - b) / b
+print("Combined expression result:", result)

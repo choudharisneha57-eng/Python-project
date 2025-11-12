@@ -1,6 +1,5 @@
-print("-------simple calculator--------")
-print("1.add")
-print("2.sub")
-print("3.mul")
-print("4.div")
-print("--------------------------------")
+p = 1000  
+r = 5     
+t = 2     
+ci = p * ((1 + r / 100) ** t)
+print("Compound Interest:", round(ci, 2))
