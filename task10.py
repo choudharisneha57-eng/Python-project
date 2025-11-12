@@ -1,0 +1,6 @@
+print("-------simple calculator--------")
+print("1.add")
+print("2.sub")
+print("3.mul")
+print("4.div")
+print("--------------------------------")

@@ -1,0 +1,1 @@
+print("Name:abc");print("city:anand")
